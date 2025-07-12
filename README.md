@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/hamza-bangash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/hamzabangash" target="blank">
+  <a href="https://www.kaggle.com/hamzabangash1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
   </a>
 </p>
@@ -66,8 +66,8 @@
 ### 📂 Pinned Projects
 
 - 🔍 [Titanic ](https://github.com/hamza-bangash/Titanic)
-- 📊 [EDA on Used Cars Dataset](https://github.com/hamza-bangash/Titanic)
-- 🏫 [University Management System (OOP)](https://github.com/hamza-bangash/Titanic)
+- 📊 [EDA on Used Cars Dataset](https://github.com/hamza-bangash/houseprice)
+- 🏫 [University Management System (OOP)](https://github.com/hamza-bangash/oops-in-c-)
 
 
 ---
